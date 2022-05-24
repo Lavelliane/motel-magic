@@ -1,0 +1,127 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "roomImage": [
+        "http://cdn.cnn.com/cnnnext/dam/assets/140127103345-peninsula-shanghai-deluxe-mock-up.jpg",
+        "https://images.pexels.com/photos/279746/pexels-photo-279746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/189333/pexels-photo-189333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomName": "Standard Room",
+      "roomIntroduction": "She didn't understand how changed worked. When she looked at today compared to yesterday, there was nothing that she could see that was different. Yet, when she looked at today compared to last year, she couldn't see how anything was ever the same.",
+      "roomTheme": "Modern",
+      "roomAmenityType": "Basic",
+      "roomCapacity": 2,
+      "roomDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo nulla neque, et vehicula purus maximus sed. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vitae sapien sem. Integer sed nisl maximus ligula sollicitudin euismod. Nunc sed sapien ligula. ",
+      "roomAmenities": [
+        "Pool",
+        "Buffet"
+      ],
+      "roomPrice": "6500"
+    },
+    {
+      "id": 2,
+      "roomImage": [
+        "https://static.toiimg.com/thumb/29500895.cms?resizemode=75&width=1200&height=900",
+        "https://images.pexels.com/photos/1579253/pexels-photo-1579253.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/6466496/pexels-photo-6466496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomName": "Deluxe Room",
+      "roomIntroduction": "She didn't understand how changed worked. When she looked at today compared to yesterday, there was nothing that she could see that was different. Yet, when she looked at today compared to last year, she couldn't see how anything was ever the same.",
+      "roomTheme": "Modern",
+      "roomAmenityType": "Basic",
+      "roomCapacity": 5,
+      "roomDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo nulla neque, et vehicula purus maximus sed. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vitae sapien sem. Integer sed nisl maximus ligula sollicitudin euismod. Nunc sed sapien ligula. ",
+      "roomAmenities": [
+        "Pool",
+        "Buffet"
+      ],
+      "roomPrice": "11500"
+    },
+    {
+      "id": 3,
+      "roomImage": [
+        "https://i.pinimg.com/736x/09/2e/6d/092e6d7c5d4fa5614dbef661fa79c615.jpg",
+        "https://www.therooftopguide.com/rooftop-news/Bilder/nyc-rooftop-hotels-arlo-nomad-1.jpg",
+        "https://i.pinimg.com/originals/ae/91/94/ae9194e98f7f54658915d96e5665149e.jpg"
+      ],
+      "roomName": "Magical Room",
+      "roomIntroduction": "She didn't understand how changed worked. When she looked at today compared to yesterday, there was nothing that she could see that was different. Yet, when she looked at today compared to last year, she couldn't see how anything was ever the same.",
+      "roomTheme": "Modern Dark",
+      "roomAmenityType": "Premium",
+      "roomCapacity": 2,
+      "roomDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo nulla neque, et vehicula purus maximus sed. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vitae sapien sem. Integer sed nisl maximus ligula sollicitudin euismod. Nunc sed sapien ligula. ",
+      "roomAmenities": [
+        "Pool",
+        "Buffet",
+        "Spa"
+      ],
+      "roomPrice": "14500"
+    },
+    {
+      "id": 4,
+      "roomImage": [
+        "https://st.hzcdn.com/simgs/9891804e002a264d_4-5067/home-design.jpg",
+        "https://cdn.archilovers.com/projects/8fac444d-b8ef-4fd4-b338-60e40861042c.jpg",
+        "https://rugsociety.eu/inspirations-and-ideas/wp-content/uploads/2021/03/Kiev-Wonderful-Projects-Stylish-Displays-of-Sophistication19-2.jpg"
+      ],
+      "roomName": "Room of Sorcery",
+      "roomIntroduction": "She didn't understand how changed worked. When she looked at today compared to yesterday, there was nothing that she could see that was different. Yet, when she looked at today compared to last year, she couldn't see how anything was ever the same.",
+      "roomTheme": "Spell Bound",
+      "roomAmenityType": "Premium",
+      "roomCapacity": 2,
+      "roomDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo nulla neque, et vehicula purus maximus sed. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vitae sapien sem. Integer sed nisl maximus ligula sollicitudin euismod. Nunc sed sapien ligula. ",
+      "roomAmenities": [
+        "Pool",
+        "Buffet",
+        "Spa",
+        "Cityview"
+      ],
+      "roomPrice": "16500"
+    },
+    {
+      "id": 5,
+      "roomImage": [
+        "https://www.caandesign.com/wp-content/uploads/2017/01/dark-theme-apartment-designed-yodezeen-kiev-09.jpg",
+        "https://cdna.artstation.com/p/assets/images/images/025/011/968/large/shiv-tiwari-bedroom-2-post.jpg?1584294098",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs/5d2a0a64273351.5accf5b853db6.jpg"
+      ],
+      "roomName": "Magical Suite",
+      "roomIntroduction": "She didn't understand how changed worked. When she looked at today compared to yesterday, there was nothing that she could see that was different. Yet, when she looked at today compared to last year, she couldn't see how anything was ever the same.",
+      "roomTheme": "Spell Bound",
+      "roomAmenityType": "Premium+",
+      "roomCapacity": 5,
+      "roomDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo nulla neque, et vehicula purus maximus sed. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vitae sapien sem. Integer sed nisl maximus ligula sollicitudin euismod. Nunc sed sapien ligula. ",
+      "roomAmenities": [
+        "Pool",
+        "Buffet",
+        "Spa",
+        "Cityview"
+      ],
+      "roomPrice": "20500"
+    },
+    {
+      "id": 6,
+      "roomImage": [
+        "https://media.architecturaldigest.com/photos/55e768ac302ba71f301675f7/master/w_900,h_600,c_limit/dam-images-decor-2013-02-steven-harris-steven-harris-01-exterior.jpg",
+        "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/2/8/1/CI_Halstead_History-of-Penthouses-6.jpg.rend.hgtvcom.1280.853.suffix/1518139442662.jpeg",
+        "https://media.architecturaldigest.com/photos/5c0817ec1b58382d031ba321/3:2/w_3600,h_2400,c_limit/Eighty%20Seven%20Park%20Penthouse%20Family%20Room.jpg"
+      ],
+      "roomName": "Wizard's Suite",
+      "roomIntroduction": "She didn't understand how changed worked. When she looked at today compared to yesterday, there was nothing that she could see that was different. Yet, when she looked at today compared to last year, she couldn't see how anything was ever the same.",
+      "roomTheme": "High-end Penthouse",
+      "roomAmenityType": "Superior",
+      "roomCapacity": 5,
+      "roomDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo nulla neque, et vehicula purus maximus sed. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vitae sapien sem. Integer sed nisl maximus ligula sollicitudin euismod. Nunc sed sapien ligula. ",
+      "roomAmenities": [
+        "Pool",
+        "Buffet",
+        "Spa",
+        "Cityview",
+        "Butler"
+      ],
+      "roomPrice": "30000"
+    }
+  ],
+  "reservations": []
+}

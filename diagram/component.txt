@@ -1,0 +1,50 @@
+@startuml
+
+skinparam component {
+  backgroundColor<<React_Router_5.1>> Magenta
+}
+interface "Router Switch" as RS
+
+node "Main App Component" {
+  [App] --> [Navbar] : contains
+  [App] --> [Footer] : contains
+  [Navbar] ..> [React Router Dom] : uses
+  [React Router Dom] - RS 
+  [React Router Dom] - RS 
+  [React Router Dom] - RS 
+  
+}
+[React Router Dom] <<React_Router_5.1>>
+
+RS --> [Home Components] : routes to
+RS --> [Payment Components] : if valid form input routes to
+RS --> [Reservation Components] : routes to
+
+
+cloud "Firebase Database" {
+  [rooms]
+  [reservations]
+}
+package "Utility Components" {
+  [Room]
+  [Search]
+}
+
+node "Home Components" {
+  [Home]
+  [Hero]
+  [Amenities]
+  [Featured]
+  [WhyUs]
+  [Testimonials]
+}
+node "Payment Components" {
+  [Payment]
+  [Success]
+}
+node "Reservation Components" {
+  [Form] --> RS : valid form input
+  [Summary]
+}
+
+@enduml
